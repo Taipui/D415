@@ -151,7 +151,7 @@ MeshLabというフリーソフトを使えば、obj等の形式に変換でき�
 
 <span style="font-size: 60%;">[MRTK](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases)を導入します。</span>
 
-<img src="mrtk.png" width=40%>
+<img src="mrtk.png" width=0%>
 
 <span style="font-size: 60%;">「HoloToolkit-Unity-2017.4.3.0-Refresh.unitypackage」をインポートします。</span>
 
