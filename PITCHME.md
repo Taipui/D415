@@ -55,9 +55,11 @@ T265というカメラも存在する
 
 ## 購入
 
+<img src="d415_package.jpg" width=50%>
+
 [Amazon](https://www.amazon.co.jp/gp/product/B07BJ1KKTV/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)で購入
 
-\22,670(2019年6月7日)
+22,670円(2019年6月7日)
 
 お急ぎ便で1日で届いた
 
