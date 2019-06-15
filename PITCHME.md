@@ -4,7 +4,7 @@ D415を用いた3Dスキャン
 
 ---
 
-# D415とは
+## D415とは
 
 <img src="realsense.png" width=50%>
 
@@ -52,6 +52,18 @@ T265というカメラも存在する
 デプスカメラではない
 
 ---
+
+## 購入
+
+[Amazon](https://www.amazon.co.jp/gp/product/B07BJ1KKTV/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)で購入
+
+\22,670(2019年6月7日)
+
+お急ぎ便で1日で届いた
+
+---
+
+
 
 # 参考文献
 
