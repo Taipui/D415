@@ -115,7 +115,7 @@ https://www.intelrealsense.com/get-started-depth-camera/
 
 ## データ化
 
-<img src="viewer.png" width=50%>
+<img src="viewer2.png" width=50%>
 
 ViewerでポイントクラウドをPLYに変換できます。
 
@@ -154,8 +154,6 @@ HoloLens向けのSDKにこのシェーダーが含まれているので、
 「HoloToolkit-Unity-2017.4.3.0-Refresh.unitypackage」をインポートします。
 
 ---
-
-画像
 
 「Fast Configurable 2 Sided」というシェーダーのマテリアルを適用し、
 
