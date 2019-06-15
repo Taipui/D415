@@ -93,7 +93,7 @@ https://www.intelrealsense.com/get-started-depth-camera/
 
 <img src="site1.png" width=50%>
 
-全部英語
+全部英語です
 
 ---
 
@@ -101,7 +101,77 @@ https://www.intelrealsense.com/get-started-depth-camera/
 
 <img src="viewer1.png" width=50%>
 
-色々できそう
+インストール不要で、デプスカメラの機能を一通り試すことができます。
+
+---
+
+## Unity SDK
+
+[Github](https://github.com/IntelRealSense/librealsense/releases/tag/v2.21.0)にUnity用のSDKがあります。
+
+画像
+
+---
+
+## データ化
+
+画像
+
+ViewerでポイントクラウドをPLYに変換できます。
+
+---
+
+## MeshLabを用いて変換
+
+PLY形式を扱えるのであれば、これでよいのですが、
+
+Unity等の一部のソフトではPLY形式に対応していないことがあります。
+
+MeshLabというフリーソフトを使えば、obj等の形式に変換できます。
+
+画像
+
+---
+
+色は点群に保存されており、Unityではこれをインポートできないため、
+
+今回はdae形式で保存します。
+
+---
+
+## Unityへ読み込む
+
+dae形式は読み込めますが、色情報はありません。
+
+頂点単位のカラーをサポートするシェーダーが必要になります。
+
+HoloLens向けのSDKにこのシェーダーが含まれているので、
+
+[MRTK](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases)を導入します。
+
+画像
+
+「HoloToolkit-Unity-2017.4.3.0-Refresh.unitypackage」をインポートします。
+
+---
+
+画像
+
+「Fast Configurable 2 Sided」というシェーダーのマテリアルを適用し、
+
+「Vertex Color Enabled」にチェックを入れると、色が乗ります。
+
+画像
+
+---
+
+## まとめ
+
+「カメラに映ったものをポイントクラウド化できる」ということなので、
+
+フル3Dモデル化するには一工夫必要
+
+表面的なものでよいのであれば、無料ですぐに立体化出来るのでお手軽
 
 ---
 
@@ -112,3 +182,8 @@ https://www.intelrealsense.com/get-started-depth-camera/
 [スイッチサイエンス](https://www.switch-science.com/)
 
 [【記事】RealSense D415とD435 および D435iとT265の比較と選び方｜新着情報｜テガラ株式会社](https://www.tegara.com/news/2019/04/realsense-compare.html)
+
+[Capturing a 3D Point Cloud with Intel RealSense and Converting to a Mesh with MeshLab]
+(https://www.andreasjakl.com/capturing-3d-point-cloud-intel-realsense-converting-mesh-meshlab/)
+
+[MRTK](https://github.com/IntelRealSense/librealsense/releases/tag/v2.21.0)
