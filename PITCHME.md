@@ -141,7 +141,7 @@ MeshLabというフリーソフトを使えば、obj等の形式に変換でき�
 
 ---
 
-## Unityへ読み込む
+## <span style="font-size: 80%;">Unityへ読み込む</span>
 
 <span style="font-size: 70%;">dae形式は読み込めますが、色情報はありません。</span>
 
