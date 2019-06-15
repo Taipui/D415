@@ -143,16 +143,13 @@ MeshLabというフリーソフトを使えば、obj等の形式に変換でき�
 
 ## Unityへ読み込む
 
-<span style="font-size: 80%;">
-dae形式は読み込めますが、色情報はありません。
+<span style="font-size: 80%;">dae形式は読み込めますが、色情報はありません。</span>
 
-頂点単位のカラーをサポートするシェーダーが必要になります。
+<span style="font-size: 80%;">頂点単位のカラーをサポートするシェーダーが必要になります。</span>
 
-HoloLens向けのSDKにこのシェーダーが含まれているので、
+<span style="font-size: 80%;">HoloLens向けのSDKにこのシェーダーが含まれているので、</span>
 
-[MRTK](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases)を導入します。
-
-</span>
+<span style="font-size: 80%;">[MRTK](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases)を導入します。</span>
 
 <img src="mrtk.png" width=50%>
 
