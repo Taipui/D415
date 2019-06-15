@@ -24,10 +24,10 @@ D415、D435、D435i
 
 |  |D415  |D435  |D435i  |
 |:---:|:---:|:---:|:---:|
-|<span style="font-size: 50%;">FoV</span>  |65°  |85°  |85°  |
-|シャッタータイプ  |ローリング  |グローバル  |グローバル  |
-|モジュール  |Intel RealSense D415 module  |Intel RealSense D430 module  |Intel RealSense D430 module  |
-|Imager  |2メガピクセル  |1メガピクセル  |1メガピクセル  |
+|<span style="font-size: 80%;">FoV</span>  |<span style="font-size: 80%;">65°</span>  |<span style="font-size: 80%;">85°</span>  |<span style="font-size: 80%;">85°</span>  |
+|<span style="font-size: 80%;">シャッタータイプ</span>  |<span style="font-size: 80%;">ローリング</span>  |<span style="font-size: 80%;">グローバル</span>  |<span style="font-size: 80%;">グローバル</span>  |
+|<span style="font-size: 80%;">モジュール</span>  |<span style="font-size: 80%;">Intel RealSense D415 module</span>  |<span style="font-size: 80%;">Intel RealSense D430 module</span>  |<span style="font-size: 80%;">Intel RealSense D430 module</span>  |
+|<span style="font-size: 80%;">Imager</span>  |<span style="font-size: 80%;">2メガピクセル</span>  |<span style="font-size: 80%;">1メガピクセル</span>  |<span style="font-size: 80%;">1メガピクセル</span>  |
 
 ---
 
