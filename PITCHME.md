@@ -31,6 +31,17 @@ D415、D435、D435i
 
 ---
 
+### それぞれの違い
+
+D415は精度が高いため、3Dスキャンに向いている
+
+D435は視野が広いため、トラッキングに向いている
+
+
+今回は3Dスキャンをするため、D415を選択
+
+---
+
 # 参考文献
 
 [インテル® RealSense™ テクノロジー](https://www.intel.co.jp/content/www/jp/ja/architecture-and-technology/realsense-overview.html)
