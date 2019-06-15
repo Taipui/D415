@@ -43,6 +43,16 @@ D435iはD435にIMU(深度データと同期して装置そのものの動きが�
 
 ---
 
+T265というカメラも存在する
+
+<img src="t265.webp" width=50%>
+
+より高精度でトラッキングしたい時用
+
+デプスカメラではない
+
+---
+
 # 参考文献
 
 [インテル® RealSense™ テクノロジー](https://www.intel.co.jp/content/www/jp/ja/architecture-and-technology/realsense-overview.html)
