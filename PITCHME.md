@@ -20,7 +20,7 @@ D415、D435、D435i
 
 ---
 
-# それぞれの違い
+## それぞれの違い
 
 |  |D415  |D435  |D435i  |
 |:---:|:---:|:---:|:---:|
@@ -34,5 +34,7 @@ D415、D435、D435i
 # 参考文献
 
 [インテル® RealSense™ テクノロジー](https://www.intel.co.jp/content/www/jp/ja/architecture-and-technology/realsense-overview.html)
+
 [スイッチサイエンス](https://www.switch-science.com/)
+
 [【記事】RealSense D415とD435 および D435iとT265の比較と選び方｜新着情報｜テガラ株式会社](https://www.tegara.com/news/2019/04/realsense-compare.html)
