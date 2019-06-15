@@ -79,7 +79,7 @@ USB3.1 C to A
 
 ## PCとつなぐ
 
-<img src="set.jpg" width=50%>
+<img src="set.jpg" width=40%>
 
 最初USBをどこに挿すか分からなかった
 
