@@ -79,6 +79,8 @@ USB3.1 C to A
 
 ## PCとつなぐ
 
+<img src="set.jpg" width=50%>
+
 最初USBをどこに挿すか分からなかった
 
 三脚が割とチープ
