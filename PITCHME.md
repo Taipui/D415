@@ -55,7 +55,7 @@ T265というカメラも存在する
 
 ## 購入
 
-<img src="d415_package.jpg" width=50%>
+<img src="d415_package.jpg" width=40%>
 
 [Amazon](https://www.amazon.co.jp/gp/product/B07BJ1KKTV/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)で購入
 
@@ -67,7 +67,7 @@ T265というカメラも存在する
 
 ## 同梱物
 
-<img src="d415_bundled.jpg" width=50%>
+<img src="d415_bundled.jpg" width=40%>
 
 D415
 
