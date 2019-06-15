@@ -153,7 +153,7 @@ MeshLabというフリーソフトを使えば、obj等の形式に変換でき�
 
 <img src="mrtk.png" width=40%>
 
-「HoloToolkit-Unity-2017.4.3.0-Refresh.unitypackage」をインポートします。
+<span style="font-size: 70%;">「HoloToolkit-Unity-2017.4.3.0-Refresh.unitypackage」をインポートします。</span>
 
 ---
 
