@@ -8,8 +8,9 @@ D415を用いた3Dスキャン
 
 <img src="realsense.png" width=50%>
 
-Intel RealSense Depth Camera Dシリーズの一種
+Intel RealSense Depth Camera D400シリーズの一種
 
 デプスカメラ
 
 ---
+
