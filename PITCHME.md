@@ -14,8 +14,16 @@ Intel RealSense Depth Camera D400シリーズの一種
 
 ---
 
+# D400シリーズは3種類ある
+
+D415、D435、D435i
+
+---
+
+# それぞれの違い
+
 |D415  |D435  |D435i  |
 |:---:|:---:|:---:|
-|<img src="d415.jpg" width=10%>  |<img src="d435.jpg" width=10%>  |<img src="d435i.jpg" width=10%>  |
+|![](d415.jpg)  |![](d435.jpg)  |![](d435i.jpg)  |
 |1  |2  |3  |
 |4  |5  |6  |
