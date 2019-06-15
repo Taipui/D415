@@ -191,4 +191,4 @@ MeshLabというフリーソフトを使えば、<br>obj等の形式に変換で
 
 ---
 
-# <span style="font-size: 50%;">ご清聴<br>ありがとう<br>ございました！</span>
+# <span style="font-size: 50%;">ご清聴ありがとうございました！</span>
