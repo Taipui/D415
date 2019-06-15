@@ -177,7 +177,7 @@ MeshLabというフリーソフトを使えば、<br>obj等の形式に変換で
 
 ---
 
-# 参考文献
+## 参考文献
 
 [インテル® RealSense™ テクノロジー](https://www.intel.co.jp/content/www/jp/ja/architecture-and-technology/realsense-overview.html)
 
@@ -188,3 +188,7 @@ MeshLabというフリーソフトを使えば、<br>obj等の形式に変換で
 [Capturing a 3D Point Cloud with Intel RealSense and Converting to a Mesh with MeshLab](https://www.andreasjakl.com/capturing-3d-point-cloud-intel-realsense-converting-mesh-meshlab/)
 
 [MRTK](https://github.com/IntelRealSense/librealsense/releases/tag/v2.21.0)
+
+---
+
+# ご清聴ありがとうございました！
