@@ -93,7 +93,7 @@ USB3.1 C to A
 
 https://www.intelrealsense.com/get-started-depth-camera/
 
-<img src="site1.png" width=50%>
+<img src="site1.png" width=40%>
 
 全部英語です
 
@@ -131,7 +131,7 @@ Unity等の一部のソフトではPLY形式に対応していないことがあ
 
 MeshLabというフリーソフトを使えば、obj等の形式に変換できます。
 
-<img src="meshLab.png" width=50%>
+<img src="meshLab.png" width=40%>
 
 ---
 
@@ -143,6 +143,7 @@ MeshLabというフリーソフトを使えば、obj等の形式に変換でき�
 
 ## Unityへ読み込む
 
+<span style="font-size: 80%;">
 dae形式は読み込めますが、色情報はありません。
 
 頂点単位のカラーをサポートするシェーダーが必要になります。
@@ -150,6 +151,8 @@ dae形式は読み込めますが、色情報はありません。
 HoloLens向けのSDKにこのシェーダーが含まれているので、
 
 [MRTK](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases)を導入します。
+
+</span>
 
 <img src="mrtk.png" width=50%>
 
