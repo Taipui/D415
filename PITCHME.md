@@ -109,13 +109,13 @@ https://www.intelrealsense.com/get-started-depth-camera/
 
 [Github](https://github.com/IntelRealSense/librealsense/releases/tag/v2.21.0)にUnity用のSDKがあります。
 
-画像
+<img src="unitySdk.png" width=50%>
 
 ---
 
 ## データ化
 
-画像
+<img src="viewer.png" width=50%>
 
 ViewerでポイントクラウドをPLYに変換できます。
 
@@ -129,7 +129,7 @@ Unity等の一部のソフトではPLY形式に対応していないことがあ
 
 MeshLabというフリーソフトを使えば、obj等の形式に変換できます。
 
-画像
+<img src="meshLab.png" width=50%>
 
 ---
 
@@ -149,7 +149,7 @@ HoloLens向けのSDKにこのシェーダーが含まれているので、
 
 [MRTK](https://github.com/Microsoft/MixedRealityToolkit-Unity/releases)を導入します。
 
-画像
+<img src="mrtk.png" width=50%>
 
 「HoloToolkit-Unity-2017.4.3.0-Refresh.unitypackage」をインポートします。
 
@@ -161,7 +161,7 @@ HoloLens向けのSDKにこのシェーダーが含まれているので、
 
 「Vertex Color Enabled」にチェックを入れると、色が乗ります。
 
-画像
+<img src="unity.png" width=50%>
 
 ---
 
@@ -173,6 +173,12 @@ HoloLens向けのSDKにこのシェーダーが含まれているので、
 
 表面的なものでよいのであれば、無料ですぐに立体化出来るのでお手軽
 
+カメラの電源はPCから供給できるので、
+
+モバイルPCと組み合わせれば、割とポータブル
+
+リアルタイム処理も可能！？
+
 ---
 
 # 参考文献
@@ -183,7 +189,6 @@ HoloLens向けのSDKにこのシェーダーが含まれているので、
 
 [【記事】RealSense D415とD435 および D435iとT265の比較と選び方｜新着情報｜テガラ株式会社](https://www.tegara.com/news/2019/04/realsense-compare.html)
 
-[Capturing a 3D Point Cloud with Intel RealSense and Converting to a Mesh with MeshLab]
-(https://www.andreasjakl.com/capturing-3d-point-cloud-intel-realsense-converting-mesh-meshlab/)
+[Capturing a 3D Point Cloud with Intel RealSense and Converting to a Mesh with MeshLab](https://www.andreasjakl.com/capturing-3d-point-cloud-intel-realsense-converting-mesh-meshlab/)
 
 [MRTK](https://github.com/IntelRealSense/librealsense/releases/tag/v2.21.0)
