@@ -129,7 +129,7 @@ PLY形式を扱えるのであれば、これでよいのですが、
 
 Unity等の一部のソフトでは<br>PLY形式に対応していないことがあります。
 
-MeshLabというフリーソフトを使えば、<br>obj等の形式に変換できます。
+[MeshLab](http://www.meshlab.net/)というフリーソフトを使えば、<br>obj等の形式に変換できます。
 
 <img src="meshLab.png" width=40%>
 
